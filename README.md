@@ -15,11 +15,11 @@ https://github.com/user-attachments/assets/08486867-2274-4b0b-b429-77569ffa7e3c 
 
 | 로그인 | 회원가입 | 메인훈련 | 세부훈련 |
 |---|---|---|---|
-| ![](images/drowsy.jpg) | ![](images/smoking.jpg) | ![](images/phone.jpg) | ![](images/seatbelt.jpg) |
+| ![](images/login.png) | ![](images/signup.png) | ![](images/main.png) | ![](images/detail.png) |
 | 훈련1 | 훈련2 | 훈련3 | 훈련4 |
-| ![](images/drowsy.jpg) | ![](images/smoking.jpg) | ![](images/phone.jpg) | ![](images/seatbelt.jpg) |
+| ![](images/train1.png) | ![](images/train2.png) | ![](images/train3.png) | ![](images/train4.png) |
 | 기록 | 그래프 | 알림 | 관리자 연결 |
-| ![](images/alarm.jpg) | ![](images/result.jpg) | ![](images/stat.jpg) | ![](images/weather.jpg) |
+| ![](images/report.png) | ![](images/graph.png) | ![](images/alarm.png) | ![](images/admin.png) |
 
 ---
 
