@@ -2,6 +2,9 @@
 
 사용자가 4주간 감정·신체·사고·행동을 체계적으로 기록하고, 주간 설문을 통해 자신의 정서 상태를 점검할 수 있도록 설계한 정서 조절 훈련 Android 애플리케이션입니다.
 
+🔗 Original Repository
+https://github.com/JinsuPark01/emotionalApp
+
 ---
 
 ## 🎥 Demo / 📷 App Screenshots
