@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/08486867-2274-4b0b-b429-77569ffa7e3c 
 ## 🛠 Tech Stack
 
 ### 📱 Mobile
-Kotlin · Android
+Kotlin · Android · Coroutines
 
 ### 🌐 Backend
 Firebase Authentication · Cloud Firestore
