@@ -6,6 +6,7 @@
 🔗 Original Repository
 https://github.com/JinsuPark01/emotionalApp
 
+## 현재 Compose, Fragment, MVVM 구조를 적용해 리팩토링 진행중
 🔗 Refactoring Repository
 https://github.com/JinsuPark01/Emotion-Regulation-Training-App-Refactoring
 
