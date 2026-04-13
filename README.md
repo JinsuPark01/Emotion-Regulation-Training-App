@@ -6,6 +6,9 @@
 🔗 Original Repository
 https://github.com/JinsuPark01/emotionalApp
 
+🔗 Refactoring Repository
+https://github.com/JinsuPark01/Emotion-Regulation-Training-App-Refactoring
+
 ---
 
 ## 🎥 Demo / 📷 App Screenshots
